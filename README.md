@@ -1,9 +1,9 @@
 ## Favourtites
 
 + **C:**
- + Infix Evaluator
+  + Infix Evaluator
 
 + **Java:**
- + The AVL stuff
- + Document Distance
- + Recursive Maze Solver
+  + The AVL stuff
+  + Document Distance
+  + Recursive Maze Solver
