@@ -7,3 +7,4 @@
   + The AVL stuff
   + Document Distance
   + Recursive Maze Solver
+  + Infinite Digit Multiplication
