@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://www.miglayout.com" href="swingdemoapp.jnlp">
+  <information>
+    <title>MiG Layout Swing Demo Application</title>
+    <vendor>MiG InfoCom AB</vendor>
+    <homepage href="http://www.miglayout.com/"/>
+    <description>MiG Layout Swing Demo Application</description>
+
+    <icon href="icon.png" width="48" kind="default"/>
+  </information>
+  <resources>
+    <j2se version="1.4+"/>
+    <jar href="swingdemoapp.jar"/>
+  </resources>
+  <application-desc main-class="net.miginfocom.demo.SwingDemo"/>
+</jnlp>
+
+		
